@@ -8,7 +8,11 @@ int x = 100;
 
 >>>>>>> 442a44165d045b4b624c245de4b7545478513cd9
 public int size () {
+<<<<<<< HEAD
 		int size=20;
+		String test = "Hello git";
+		int testInt = 10;
+>>>>>>> 01a2b43b2c45a582a1aca9641a9544c55d91e698
 		return size;
 	}
 
