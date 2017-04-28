@@ -1,6 +1,8 @@
 <<<<<<< HEAD
-public void thisIsANewMethod(){}
-=======
+public void thisIsANewMethod(){
+int x = 100;
+}
+
 public int size () {
 		return size;
 	}
