@@ -5,6 +5,7 @@ int x = 100;
 
 public int size () {
 		String test = "Hello git";
+		int testInt = 10;
 		return size;
 	}
 
