@@ -8,6 +8,8 @@ int x = 100;
 
 >>>>>>> 442a44165d045b4b624c245de4b7545478513cd9
 public int size () {
+		int size=30;
+		size=size-5;
 		return size;
 	}
 
