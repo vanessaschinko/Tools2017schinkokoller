@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 public void thisIsANewMethod(){
+<<<<<<< HEAD
 	int y=10000;
+
+int x = 100;
 }
-=======
+
+>>>>>>> 442a44165d045b4b624c245de4b7545478513cd9
 public int size () {
 		return size;
 	}
